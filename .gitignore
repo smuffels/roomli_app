@@ -7,6 +7,29 @@
 # BlueJ files
 *.ctxt
 
+# Gradle files
+.gradle
+.gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Log Files
+*.log
+
+# Android Studio
+/*/build/
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+captures/
+.navigation/
+*.ipr
+*~
+*.swp
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
